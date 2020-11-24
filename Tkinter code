@@ -1,0 +1,3 @@
+from Tkinter import*
+mainwin=Tk()
+mainwin.mainloop()
